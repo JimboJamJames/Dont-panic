@@ -8,5 +8,7 @@ int main()
 {
 	printf("hello Aie. My name is Tom Riddle. You have found my Horcrux");
 
+	// stuff
+
 	getchar();
 }
